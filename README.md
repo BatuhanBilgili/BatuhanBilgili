@@ -1,4 +1,4 @@
-<a align="middle" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc578so100110fmt1z5wgak1/stats?cursusId=21&coalitionId=229" alt="bbilgili's 42 stats" /></a>
+<a align="Right" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc578so100110fmt1z5wgak1/stats?cursusId=21&coalitionId=229" alt="bbilgili's 42 stats" /></a>
 
 <h3 align="Left">Students at Tekirdag Namık Kemal University and 42 Istanbul</h3>
 
