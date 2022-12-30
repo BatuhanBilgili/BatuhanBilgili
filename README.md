@@ -2,10 +2,7 @@
 
 <h3 align="Left">Students at Tekirdag Namık Kemal University and 42 Istanbul</h3>
 
-<img align="center" alt="Coding" width="600" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
-
-
-- 🌱 I’m currently learning **C and data science and machine learning**
+- I’m  learning **C and data science and machine learning**
 
 - 💬 Ask me about **Python and C project**
 
