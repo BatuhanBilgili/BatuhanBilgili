@@ -4,7 +4,7 @@
 <img align="center" alt="Coding" width="600" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc578so100110fmt1z5wgak1/stats?cursusId=21&coalitionId=229" alt="bbilgili's 42 stats" /></a>
+<a align="center"  href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc578so100110fmt1z5wgak1/stats?cursusId=21&coalitionId=229" alt="bbilgili's 42 stats" /></a>
 
 - 🌱 I’m currently learning **C and data science and machine learning**
 
